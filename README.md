@@ -84,8 +84,11 @@ You can find the source code on GitHub at [Event Management System](https://gith
 6. Access the API endpoints using a tool like Postman or through a web browser.
 
 ### 5. Demonstration:
-These are the screenshots demonstrating the execution of the provided test case through the API using Postman tool:
+These are the screenshots and video demonstrating the execution of the provided test case through the API using Postman tool:
+[Watch Demonstration Video](https://drive.google.com/file/d/1ygmeJ0Bu6Zd6doltZC69Mic4w1nZ86Rc/view?usp=sharing)
 - **Upload Events:**
   ![Upload Events](https://github.com/PragyanKPradhan/Event-Management-System/assets/144383179/783c7440-3114-448b-b7b7-e0f71a14ac41)
 - **Find Events:**
   ![Find Events](https://github.com/PragyanKPradhan/Event-Management-System/assets/144383179/0eccb60b-8915-48a4-9149-6c6622c9cdaf)
+
+  
