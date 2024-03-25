@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: event-management-system
+  datasource:
+    url: jdbc:mysql://localhost:3307/eventDb?createDatabaseIfNotExist=true
+    username: root
+    password: root
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+        dialect: org.hibernate.dialect.MySQL8Dialect
